@@ -1,2 +1,2 @@
 # Streamlit
-This repo is having codes used to deploy my first streamlit app.
+This repo is having basic streamlit functions. 
