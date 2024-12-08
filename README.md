@@ -1,2 +1,2 @@
 # Streamlit
-This repo is having basic streamlit functions. 
+This repo contains basic streamlit functions. 
